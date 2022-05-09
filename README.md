@@ -77,6 +77,9 @@ tasks using the scikit learn:
 
 
 
+# How to run this file
+
+TO RUN THE NOTEBOOKS JUST UPLOAD THE DATASET IN THE JUPYTER NOTEBOOK AND YOU CAN RUN IT.
 
 
 
